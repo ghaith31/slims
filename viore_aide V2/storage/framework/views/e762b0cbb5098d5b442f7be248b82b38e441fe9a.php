@@ -1,0 +1,1 @@
+<img src="<?php echo e(asset('slims.png')); ?>" width="100px"><?php /**PATH C:\wamp64\www\viore_aide\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
